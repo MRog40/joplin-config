@@ -40,7 +40,6 @@ body {
     border-bottom: var(--base-size-1) solid var(--dark-grey) !important;
 }
 
-/* markdown */
 .ace_text-layer {
     padding: 2%;
 }
@@ -68,9 +67,6 @@ body {
 
 .ace_string {
     color: var(--primary) !important;
-}
-
-.ace_cursor {
 }
 
 /* prevent cursor from blinking */
